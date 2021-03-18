@@ -1,0 +1,13 @@
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp3.1\NunitDem.exe
+C:\Users\ruber\source\repos\NunitDem\NunitDem\obj\Debug\netcoreapp3.1\NunitDem.AssemblyInfoInputs.cache
+C:\Users\ruber\source\repos\NunitDem\NunitDem\obj\Debug\netcoreapp3.1\NunitDem.AssemblyInfo.cs
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp3.1\NunitDem.deps.json
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp3.1\NunitDem.runtimeconfig.json
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp3.1\NunitDem.runtimeconfig.dev.json
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp3.1\NunitDem.dll
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp3.1\NunitDem.pdb
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\ruber\source\repos\NunitDem\NunitDem\obj\Debug\netcoreapp3.1\NunitDem.csproj.CopyComplete
+C:\Users\ruber\source\repos\NunitDem\NunitDem\obj\Debug\netcoreapp3.1\NunitDem.dll
+C:\Users\ruber\source\repos\NunitDem\NunitDem\obj\Debug\netcoreapp3.1\NunitDem.pdb
+C:\Users\ruber\source\repos\NunitDem\NunitDem\obj\Debug\netcoreapp3.1\NunitDem.csprojAssemblyReference.cache

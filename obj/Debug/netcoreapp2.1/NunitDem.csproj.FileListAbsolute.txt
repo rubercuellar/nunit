@@ -1,0 +1,17 @@
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp2.1\NunitDem.deps.json
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp2.1\NunitDem.runtimeconfig.json
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp2.1\NunitDem.runtimeconfig.dev.json
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp2.1\NunitDem.dll
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp2.1\NunitDem.pdb
+C:\Users\ruber\source\repos\NunitDem\NunitDem\obj\Debug\netcoreapp2.1\NunitDem.AssemblyInfoInputs.cache
+C:\Users\ruber\source\repos\NunitDem\NunitDem\obj\Debug\netcoreapp2.1\NunitDem.AssemblyInfo.cs
+C:\Users\ruber\source\repos\NunitDem\NunitDem\obj\Debug\netcoreapp2.1\NunitDem.dll
+C:\Users\ruber\source\repos\NunitDem\NunitDem\obj\Debug\netcoreapp2.1\NunitDem.pdb
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp2.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\ruber\source\repos\NunitDem\NunitDem\bin\Debug\netcoreapp2.1\nunit.engine.core.dll

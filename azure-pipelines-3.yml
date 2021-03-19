@@ -4,18 +4,15 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core
 
 trigger:
-- main
+- master
 
 pool:
-  vmImage: windows-latest
+  vmImage: ubuntu-latest
 
 variables:
   buildConfiguration: 'Release'
 
 steps:
 - task: DotNetCoreCLI@2
-  displayName: Test
   inputs:
-    command: test
-    projects: '**/*.csproj'
-    arguments: 'Automated executions' 
+    command: 'test'
